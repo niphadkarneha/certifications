@@ -8,6 +8,7 @@
    
 2. [IBM initiative CognitiveClass.ai Python for Data Science](./CognitiveClassPythonforDataScience.pdf)
 3. [IBM initiative CognitiveClass.ai Data Analysis with Python](./CognitiveClassDataAnalysiswithPython.pdf)
+4. [IBM initiative CognitiveClass.ai Data Visualization with Python](./CognitiveClassDataVisualizations.pdf)
 
 #### Docker certification
 
