@@ -13,3 +13,10 @@
 #### Docker certification
 
 1. [IBM Docker Essentials: A Developer Introduction](https://courses.cognitiveclass.ai/certificates/05f9b8fa70a749b29d321a567fa1acff)
+
+
+#### Web 
+
+There is no end when in comes to learning web technologies
+
+1. [Advanced Javascript](https://www.udemy.com/course/javascript-advanced/)
