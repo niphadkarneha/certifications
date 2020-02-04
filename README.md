@@ -1,8 +1,6 @@
 # Certifications
 
-#### Web 
-
-There is no end when in comes to learning web technologies
+#### Web: There is no end when in comes to learning web technologies
 
 1. [Advanced Javascript](https://www.udemy.com/course/javascript-advanced/)
 
